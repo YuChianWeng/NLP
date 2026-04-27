@@ -1,0 +1,15 @@
+[1] 原文:  My name is Eric Pace. My DOB is 04-20-71 and SSN is 236-49-3650. Email: qpena@example.com, Phone: 001-280-992-9188x543.
+[1] 遮蔽後: My name is *********. My DOB is ******** and SSN is ***********. Email: *****************, Phone: ***********-9188x543.
+
+[2] 原文:  My name is Adam Kent. My DOB is 04-07-90 and SSN is 720-26-9854. Email: mnelson@example.org, Phone: +1-573-999-5316x2479.
+[2] 遮蔽後: My name is *********. My DOB is ******** and SSN is ***********. Email: *******************, Phone: ********************.
+
+[3] 原文:  My name is Jennifer Martinez. My DOB is 09-30-81 and SSN is 045-14-4074. Email: brandy54@example.org, Phone: 881.348.8132x35482.
+[3] 遮蔽後: My name is *****************. My DOB is ******** and SSN is ***********. Email: ********************, Phone: ******************.
+
+[4] 原文:  My name is Janice Mora. My DOB is 08-27-05 and SSN is 412-88-3655. Email: tinanelson@example.com, Phone: (615)504-6174x8475.
+[4] 遮蔽後: My name is ***********. My DOB is ******** and SSN is ***********. Email: **********************, Phone: ******************.
+
+[5] 原文:  My name is Joseph Sawyer. My DOB is 10-05-83 and SSN is 837-73-8675. Email: msexton@example.net, Phone: 927.835.2189.
+[5] 遮蔽後: My name is *************. My DOB is ******** and SSN is ***********. Email: *******************, Phone: ************.
+
